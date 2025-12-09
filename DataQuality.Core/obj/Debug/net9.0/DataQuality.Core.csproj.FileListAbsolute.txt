@@ -1,0 +1,11 @@
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\bin\Debug\net9.0\DataQuality.Core.deps.json
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\bin\Debug\net9.0\DataQuality.Core.dll
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\bin\Debug\net9.0\DataQuality.Core.pdb
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\DataQuality.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\DataQuality.Core.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\DataQuality.Core.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\DataQuality.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\DataQuality.Core.dll
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\refint\DataQuality.Core.dll
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\DataQuality.Core.pdb
+C:\Users\Ricardo\Desktop\JOBS\DataQualityChecker_DotNet\DataQuality.Core\obj\Debug\net9.0\ref\DataQuality.Core.dll
