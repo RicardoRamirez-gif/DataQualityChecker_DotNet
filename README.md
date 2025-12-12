@@ -1,6 +1,6 @@
 # 🚀 Data Quality Validation Service (C# / .NET Core)
 
-This repository demonstrates a **robust and architecturally mature solution** for data contract validation. It is designed to be integrated as a high-availability **backend microservice**, essential for high-volume systems like DraftKings.
+This repository demonstrates a **robust and architecturally mature solution** for data contract validation. It is designed to be integrated as a high-availability **backend microservice**, essential for high-volume systems.
 
 ***
 
